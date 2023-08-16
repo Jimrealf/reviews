@@ -75,7 +75,6 @@ export default function Reviews() {
       <button className="random" onClick={randomPerson}>
         Suprise Me
       </button>
-      <p>{index}</p>
     </div>
   );
 }
